@@ -20,7 +20,7 @@ End goal is to share valuable insights and actionable information that can drive
 
 ## Dashboard
 
-<img width="1161" height="672" alt="Cafe Sales dashboard" src="" />
+<img width="1161" height="672" alt="Cafe Sales dashboard" src="https://github.com/aliya-fanaskar/Super-Store---Sales-Dashboard-Power-BI-/blob/main/Super%20Store%20-%20Sales%20Dashboard.jpg" />
 
 [View Interactive Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjcyYTBjM2UtMjU4OC00ZGQwLThiYjQtOTM1OWZiZjBhNzc0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=f696194961b3d6484f4e])
 
@@ -38,7 +38,7 @@ End goal is to share valuable insights and actionable information that can drive
 
 - `Super Store - Sales Dashboard.pbix` → Power BI project file
 - `Super Store - Sales Dashboard.jpg` → Exported dashboard image
-- `Super Store - Sales Dataset` → Dataset csv file
+- `Super Store - Sales Dataset.csv` → Dataset csv file
 - `README.md` → Project documentation  
 
 ---
