@@ -1,4 +1,4 @@
-# Super Store - Sales Dashboard using PowerbBI
+# Super Store - Sales Dashboard using Power BI
 
 This project presents an **interactive Power BI dashboard** built on Super Store sales data.  
 The dashboard provides insights into sales, profit, orders, returns, customer segments, product categories, and regional performance.  
