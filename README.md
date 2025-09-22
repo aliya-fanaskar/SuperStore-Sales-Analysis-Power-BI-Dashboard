@@ -60,5 +60,9 @@ End goal is to share valuable insights and actionable information that can drive
 
 ---
 
+*This project was created as part of my learning journey from a [Youtube Tutorial by Rishabh Mishra](https://www.youtube.com/watch?v=fZn83JRt4Nk). While the dataset and problem statement were provided during the tutorial, I customized the dashboard design to practice my analytical and visualization skills in Power BI.*
+
+---
+
 ##### Aliya Fanaskar
 ##### www.linkedin.com/in/aliya-adil99
